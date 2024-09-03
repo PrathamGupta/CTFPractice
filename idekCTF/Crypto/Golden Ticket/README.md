@@ -77,6 +77,8 @@ Which can be written as,
 
 $$ 37*x\ -\ y\ =\ 13^{(g-1)} *(37-13)$$
 
+Here, we see that mod p is not important in this equation as we can add that later and the answer would still remain the same. 
+
 Now if we just solve for g with the values we know of x and y, then we can find the flag. 
 
 The hard part here for me was how to find the solution of the equation to solve for g, as the answer would require the use of log base 13 and I have not that much experience coding mathematical equations. 
